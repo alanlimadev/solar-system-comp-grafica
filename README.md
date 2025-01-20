@@ -43,7 +43,7 @@ Inicie o projeto
 
 ## Demonstração
 
-[Vídeo de demonstração](https://youtu.be/-TVXDjEEuYQ)
+[Vídeo de demonstração](https://youtu.be/syVjPSU1jOM)
 
 ## Autores
 
