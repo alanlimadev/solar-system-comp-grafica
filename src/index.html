@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Solar System</title>
+    <link rel="stylesheet" href="./css/style.css" />
+    <script src="./js/script.js" type="module"></script>
+  </head>
+  <body>
+    <div class="controls">
+      <h2>Controle do Sistema Solar</h2>
+
+      <label for="planet-focus">Selecionar Foco:</label>
+      <select id="planet-focus">
+        <option value="default">Padrão</option>
+        <option value="sun">Sol</option>
+        <option value="mercury">Mercúrio</option>
+        <option value="venus">Vênus</option>
+        <option value="earth">Terra</option>
+        <option value="mars">Marte</option>
+        <option value="jupiter">Júpiter</option>
+        <option value="saturn">Saturno</option>
+        <option value="uranus">Urano</option>
+        <option value="neptune">Netuno</option>
+      </select>
+
+      <button id="toggle-orbits">Mostrar Órbitas: On</button>
+      <button id="toggle-meteors">Mostrar Meteoros: Off</button>
+
+      <!-- Botões de Velocidade -->
+      <button id="increaseSpeedButton">Aumentar Velocidade</button>
+      <button id="decreaseSpeedButton">Diminuir Velocidade</button>
+    </div>
+  </body>
+</html>
