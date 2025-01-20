@@ -1,5 +1,22 @@
 ﻿# Sistema Solar
 
+## Descrição
+
+Objetivo do trabalho: Desenhar uma cena em 3D com a formação e
+movimentação do sistema solar, contando com:
+
+- uso de transformações geométricas e texturas para cada corpo celeste;
+- apresentar os objetos referentes aos planetas e sol (Saturno pode
+  apresentar seus anéis com mesmo recurso de textura mostrado em sala, mas os
+  satélites de cada um dos planetas serão desconsiderados para este trabalho);
+- aplicar o máximo de objetos referentes ao Sistema Solar na cena;
+- aplicar a translação dos planetas ao redor do Sol;
+- permitir a possibilidade de mudança de velocidade dos movimentos dos
+  planetas por teclas;
+- planetas realizarem a própria rotação em torno de si mesmos;
+
+## Rodando localmente
+
 Clone o projeto
 
 ```bash
@@ -23,3 +40,15 @@ Inicie o projeto
 ```bash
   npm run dev
 ```
+
+## Demonstração
+
+[Vídeo de demonstração](https://www.youtube.com)
+
+## Autores
+
+- ALAN DOS REIS LIMA
+- AMANDA PAULA FONTENELE
+- ANTONIO IBISON DA SILVA
+- CLARA RICARDO DE MELO
+- MAURO LUCIO LOPES FURTADO
